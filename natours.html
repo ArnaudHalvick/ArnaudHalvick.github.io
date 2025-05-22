@@ -6,7 +6,7 @@
 -->
 <html>
   <head>
-    <title>MERN E-Commerce Platform | Arnaud Halvick</title>
+    <title>Natours Tour Booking Platform | Arnaud Halvick</title>
     <meta charset="utf-8" />
     <meta
       name="viewport"
@@ -14,7 +14,7 @@
     />
     <meta
       name="description"
-      content="Comprehensive MERN E-Commerce Platform built by Arnaud Halvick. Features React customer frontend, admin dashboard, and Node.js backend with Stripe integration."
+      content="Natours Tour Booking Platform built by Arnaud Halvick. A full-featured tour booking system built with Node.js, Express, and MongoDB."
     />
     <link rel="stylesheet" href="assets/css/main.css" />
   </head>
@@ -51,44 +51,30 @@
           <!-- Content -->
           <section>
             <header class="main">
-              <h1>MERN E-Commerce Platform</h1>
+              <h1>Natours Tour Booking Platform</h1>
             </header>
 
             <span class="image main"
               ><img
-                src="images/mern-improved.jpg"
-                alt="MERN E-Commerce Platform"
+                src="images/natours.jpg"
+                alt="Natours Tour Booking Platform"
             /></span>
 
             <p>
-              A comprehensive
-              <strong>full-stack e-commerce solution</strong> featuring a modern
-              <strong>React customer frontend</strong>, a separate
-              <strong>admin dashboard</strong>, and a robust
-              <strong>Node.js backend</strong>. This project demonstrates
-              advanced patterns for building scalable, secure, and user-friendly
-              web applications with containerized deployment architecture.
+              A full-featured <strong>tour booking platform</strong> built with
+              <strong>Node.js, Express, and MongoDB</strong>, initially based on
+              Jonas Schmedtmann's course but enhanced with real-world business
+              logic and advanced features to create a production-ready
+              application.
             </p>
 
             <p>
-              <strong>🔗 Live Demo:</strong>
-              <a href="https://mernappshopper.xyz" target="_blank"
-                >mernappshopper.xyz</a
-              ><br />
-              <strong>🔐 Admin Dashboard:</strong>
-              <a href="https://admin.mernappshopper.xyz" target="_blank"
-                >admin.mernappshopper.xyz</a
-              ><br />
               <strong>🎥 Video Presentation:</strong>
-              <a
-                href="https://www.youtube.com/watch?v=H4rndG1Qr6w"
-                target="_blank"
+              <a href="https://youtu.be/fyj1y5fW3Ug" target="_blank"
                 >Watch on YouTube</a
               ><br />
               <strong>💻 Code Repository:</strong>
-              <a
-                href="https://github.com/ArnaudHalvick/e-commerce-mern-stack-improved"
-                target="_blank"
+              <a href="https://github.com/ArnaudHalvick/Natours" target="_blank"
                 >GitHub Repository</a
               >
             </p>
@@ -99,34 +85,22 @@
             <div class="row">
               <div class="col-6 col-12-small">
                 <ul>
-                  <li>Dual Frontend Architecture (Customer + Admin)</li>
+                  <li>Secure authentication with email verification & 2FA</li>
+                  <li>Advanced booking system with payments & refunds</li>
                   <li>
-                    JWT Authentication with email verification and refresh
-                    tokens
+                    Comprehensive admin dashboard for user & tour management
                   </li>
-                  <li>Stripe Payment Integration with webhook support</li>
-                  <li>
-                    Advanced SEO using React 19's native Document Metadata API
-                  </li>
-                  <li>
-                    Production-Ready Docker Deployment with hot-reload dev setup
-                  </li>
-                  <li>Reverse Proxy with Nginx and HTTPS via Let's Encrypt</li>
-                  <li>Role-based access control and user management</li>
+                  <li>Role-based access control system</li>
+                  <li>Email notifications for various events</li>
                 </ul>
               </div>
               <div class="col-6 col-12-small">
                 <ul>
-                  <li>Responsive design optimized for all devices</li>
-                  <li>
-                    Complete E-Commerce Functionality:
-                    <ul>
-                      <li>Product catalog</li>
-                      <li>Shopping cart system</li>
-                      <li>Checkout process</li>
-                      <li>Order management</li>
-                    </ul>
-                  </li>
+                  <li>Review moderation and management</li>
+                  <li>Invoice generation and management</li>
+                  <li>Tour capacity tracking and availability management</li>
+                  <li>Secure payment processing with Stripe</li>
+                  <li>Advanced error handling and logging</li>
                 </ul>
               </div>
             </div>
@@ -136,82 +110,157 @@
             <h2>Tech Stack</h2>
             <div class="row">
               <div class="col-6 col-12-small">
-                <h3>Frontend (Customer)</h3>
+                <h3>Backend</h3>
                 <ul>
-                  <li>React 19</li>
-                  <li>Redux for state management</li>
-                  <li>Stripe integration for payments</li>
-                  <li>Nginx for serving static assets</li>
-                  <li>Responsive design with CSS modules</li>
-                </ul>
-
-                <h3>Admin Dashboard</h3>
-                <ul>
-                  <li>React with Context API</li>
-                  <li>Vite for faster development</li>
-                  <li>Custom drag-and-drop interface for product management</li>
+                  <li>Node.js</li>
+                  <li>Express.js</li>
+                  <li>MongoDB with Mongoose ODM</li>
+                  <li>JWT for authentication</li>
+                  <li>Stripe for payment processing</li>
                 </ul>
               </div>
               <div class="col-6 col-12-small">
-                <h3>Backend</h3>
+                <h3>Frontend & Tools</h3>
                 <ul>
-                  <li>Node.js & Express</li>
-                  <li>MongoDB with Mongoose ODM</li>
-                  <li>JWT for authentication</li>
-                  <li>Stripe API integration</li>
-                  <li>Express-rate-limit for security</li>
-                </ul>
-
-                <h3>DevOps</h3>
-                <ul>
-                  <li>Docker & Docker Compose</li>
-                  <li>Nginx as reverse proxy</li>
-                  <li>Let's Encrypt for SSL certificates</li>
-                  <li>Digital Ocean for deployment</li>
-                  <li>CI/CD workflow</li>
+                  <li>Pug templates</li>
+                  <li>CSS</li>
+                  <li>JavaScript</li>
+                  <li>SendGrid/Nodemailer for emails</li>
+                  <li>Multer for file uploads</li>
                 </ul>
               </div>
             </div>
 
             <hr class="major" />
 
-            <h2>Architecture Highlights</h2>
+            <h2>Project Architecture</h2>
+            <p>
+              This project follows the MVC (Model-View-Controller) architecture
+              pattern:
+            </p>
             <ul>
               <li>
-                Microservices-inspired setup with separate services for
-                frontend, admin, and backend
+                <strong>Models:</strong> Mongoose schemas and models for tours,
+                users, reviews, and bookings
               </li>
-              <li>Central Nginx proxy for routing, caching, and SSL</li>
-              <li>Secrets managed via Docker volumes</li>
               <li>
-                Fully containerized with production & development environments
+                <strong>Views:</strong> Pug templates for rendering the user
+                interface
               </li>
-              <li>Optimized for scalability and maintainability</li>
+              <li>
+                <strong>Controllers:</strong> Request handlers for tours, users,
+                reviews, bookings, and authentication
+              </li>
+              <li>
+                <strong>Routes:</strong> Express routers for defining API
+                endpoints and page routes
+              </li>
+              <li>
+                <strong>Middleware:</strong> Custom middleware for
+                authentication, error handling, and request processing
+              </li>
+            </ul>
+
+            <hr class="major" />
+
+            <h2>Implementation Details</h2>
+
+            <h3>Authentication System</h3>
+            <p>The authentication system includes:</p>
+            <ul>
+              <li>User signup with email verification</li>
+              <li>Login with JWT tokens</li>
+              <li>Password reset functionality</li>
+              <li>Two-factor authentication option</li>
+              <li>User profile management</li>
+              <li>
+                Role-based access control (admin, guide, lead-guide, user)
+              </li>
+            </ul>
+
+            <h3>Tour Management</h3>
+            <p>The tour management system includes:</p>
+            <ul>
+              <li>CRUD operations for tours</li>
+              <li>Advanced filtering, sorting, and pagination</li>
+              <li>Geospatial queries for tours within a certain distance</li>
+              <li>Tour statistics and aggregation</li>
+              <li>Image upload and processing</li>
+              <li>Capacity management and availability tracking</li>
+            </ul>
+
+            <h3>Booking System</h3>
+            <p>The booking system includes:</p>
+            <ul>
+              <li>Secure checkout with Stripe</li>
+              <li>Booking management for users and admins</li>
+              <li>Email notifications for booking confirmations</li>
+              <li>Cancellation and refund processing</li>
+              <li>Invoice generation</li>
+            </ul>
+
+            <h3>Review System</h3>
+            <p>The review system includes:</p>
+            <ul>
+              <li>User reviews for tours</li>
+              <li>Average rating calculation</li>
+              <li>Review moderation by admins</li>
+              <li>Prevention of duplicate reviews</li>
+            </ul>
+
+            <hr class="major" />
+
+            <h2>Learning Experience</h2>
+            <p>
+              This project was a significant learning experience, allowing me
+              to:
+            </p>
+            <ul>
+              <li>
+                Implement a complete authentication system with security best
+                practices
+              </li>
+              <li>
+                Design and implement RESTful APIs following industry standards
+              </li>
+              <li>
+                Work with MongoDB and Mongoose to create complex data models and
+                relationships
+              </li>
+              <li>
+                Integrate with third-party services like Stripe for payments and
+                SendGrid for emails
+              </li>
+              <li>
+                Implement error handling and validation to create a robust
+                application
+              </li>
+              <li>
+                Apply advanced features in Node.js and Express to create a
+                scalable application
+              </li>
             </ul>
 
             <div class="row">
-              <div class="col-4 col-12-medium">
-                <h3>View Project</h3>
-                <ul class="actions">
-                  <li>
-                    <a
-                      href="https://mernappshopper.xyz"
-                      class="button primary fit"
-                      target="_blank"
-                      >Live Demo</a
-                    >
-                  </li>
-                </ul>
-              </div>
-              <div class="col-4 col-12-medium">
+              <div class="col-6 col-12-medium">
                 <h3>Source Code</h3>
                 <ul class="actions">
                   <li>
                     <a
                       href="https://github.com/ArnaudHalvick/e-commerce-mern-stack-improved"
-                      class="button fit"
+                      class="button primary fit"
                       target="_blank"
-                      >GitHub</a
+                      >View on GitHub</a
+                    >
+                  </li>
+                </ul>
+              </div>
+              <div class="col-6 col-12-medium">
+                <h3>Back to Projects</h3>
+                <ul class="actions">
+                  <li>
+                    <a href="index.html#projects" class="button fit"
+                      >View All Projects</a
                     >
                   </li>
                 </ul>
@@ -258,7 +307,7 @@
             </header>
             <div class="mini-posts">
               <article>
-                <a href="generic.html" class="image"
+                <a href="mern-ecommerce.html" class="image"
                   ><img
                     src="images/mern-improved.jpg"
                     alt="MERN E-Commerce Platform"
@@ -269,7 +318,7 @@
                 </p>
               </article>
               <article>
-                <a href="#" class="image"
+                <a href="natours.html" class="image"
                   ><img
                     src="images/natours.jpg"
                     alt="Natours Tour Booking Platform"
