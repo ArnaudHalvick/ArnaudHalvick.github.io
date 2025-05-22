@@ -3095,3 +3095,53 @@ button:disabled,
   margin-top: 0;
   padding-top: 0;
 }
+
+/* Custom Project Image Standardization */
+.posts article .image {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 300px;
+  overflow: hidden;
+}
+
+.posts article .image img {
+  width: auto;
+  height: auto;
+  max-height: 300px;
+  max-width: 100%;
+  object-fit: contain;
+}
+
+.mini-posts article .image {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 150px;
+  overflow: hidden;
+}
+
+.mini-posts article .image img {
+  width: auto;
+  height: auto;
+  max-height: 150px;
+  max-width: 100%;
+  object-fit: contain;
+}
+
+/* Main project detail images */
+.image.main {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 500px;
+  overflow: hidden;
+}
+
+.image.main img {
+  width: auto;
+  height: auto;
+  max-height: 500px;
+  max-width: 100%;
+  object-fit: contain;
+}
