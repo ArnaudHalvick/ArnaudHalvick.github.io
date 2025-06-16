@@ -3,7 +3,7 @@
 **Full-Stack JavaScript Developer | SEM Specialist**
 
 - **Portfolio:** [arnaudhalvick.github.io](https://arnaudhalvick.github.io/)
-- **Email:** arnaud.halvick@gmail.com
+- **Email:** halvick.arnaud@gmail.com
 - **Phone:** +54 911 2346 1925
 - **Upwork:** [Profile Link](https://www.upwork.com/freelancers/~017740c356da4ab81f) (11,000+ hours, 5-star rating)
 
@@ -190,7 +190,7 @@ I'm seeking opportunities as a **Full-Stack JavaScript Developer** where I can l
 ## 🤝 Let's Connect
 
 - **Portfolio:** [arnaudhalvick.github.io](https://arnaudhalvick.github.io/)
-- **Email:** arnaud.halvick@gmail.com
+- **Email:** halvick.arnaud@gmail.com
 - **Phone:** +54 911 2346 1925
 - **Upwork:** [Profile Link](https://www.upwork.com/freelancers/~017740c356da4ab81f)
 
