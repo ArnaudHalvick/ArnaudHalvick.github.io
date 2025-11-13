@@ -1,197 +1,195 @@
-# 👋 Hello, I'm Arnaud Halvick
+# SEO Specialist Who Codes
 
-**Full-Stack JavaScript Developer | SEM Specialist**
+**I fix the technical problems most SEO agencies outsource**
 
 - **Portfolio:** [arnaudhalvick.github.io](https://arnaudhalvick.github.io/)
 - **Email:** halvick.arnaud@gmail.com
 - **Phone:** +54 911 2346 1925
-- **Upwork:** [Profile Link](https://www.upwork.com/freelancers/~017740c356da4ab81f) (11,000+ hours, 5-star rating)
+- **Upwork:** [12,000+ hours, 100% Job Success, Top Rated](https://www.upwork.com/freelancers/~017740c356da4ab81f)
 
-## About Me
+## My Unique Advantage
 
-Full-Stack JavaScript Developer with a strong background in Search Engine Optimization (SEO) and Search Engine Advertising (SEA). Over 11,000 hours logged on Upwork with a consistent 5-star rating. I combine development and digital marketing expertise to deliver complete, scalable web applications that perform both technically and commercially.
+Most SEO specialists can only do half the job—either they understand strategy but can't implement technical solutions, or they can code but lack SEO expertise. **I do both.**
 
-This year, I built a complete, production-ready MERN e-commerce platform featuring a React customer storefront, React admin dashboard, secure Node.js/Express API backend, Dockerized deployment with Nginx reverse proxy and SSL, and Stripe integration for secure payments.
+This means:
+
+- ✅ Technical implementations that actually work in production
+- ✅ No "technical recommendations" that your dev team ignores
+- ✅ Strategic frameworks backed by working code
+- ✅ 12,000+ hours on Upwork with 100% Job Success Score and Top Rated badge
+- ✅ 7+ years solving SEO problems for e-commerce and service-based businesses
 
 - 🌍 **Location:** Buenos Aires, Argentina
-- 💼 **Current Role:** Full-Stack JavaScript Developer | SEM Specialist
-- 🌱 **Latest Learning:** SQL, PostgreSQL, Supabase, Docker, Kubernetes, Next.js 15
-- 💬 **Languages:** Native French, Fluent in English and Spanish
+- 💬 **Languages:** Native French, Fluent English and Spanish
+- 💼 **Specialization:** Technical SEO Implementation + Strategic SEO Planning
 
-## 🎓 Certifications
+## 🚫 Problems I Solve
 
-- _The Complete JavaScript Course 2025: From Zero to Expert!_ — Udemy, August 2024
-- _Node.js, Express, MongoDB & More: The Complete Bootcamp_ — Udemy, October 2024
-- _Understanding TypeScript_ — Udemy, October 2024
-- _Angular - The Complete Guide (2025 Edition)_ — Udemy, December 2024
-- _React - The Complete Guide 2025 (incl. Next.js, Redux)_ — Udemy, February 2025
-- _Docker & Kubernetes: The Practical Guide [2025 Edition]_ — Udemy, June 2025
+### "Our site has XXX pages but Google only indexes a few"
 
-## 🔧 Technologies & Tools
+**The Problem:** E-commerce filter combinations create infinite URL variations, wasting crawl budget and causing duplicate content penalties.
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat-square)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=flat-square)
-![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white&style=flat-square)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat-square)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white&style=flat-square)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-square)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=flat-square)
-![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?logo=supabase&logoColor=white&style=flat-square)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat-square)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=flat-square)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat-square)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat-square)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat-square)
+**My Solution:** Smart parameter classification + robots.txt patterns + dynamic canonicalization that prevents URL explosions while keeping valuable facets indexable.
 
-## 💼 My Expertise
+**What You Get:** Production-ready code or technical specifications for your dev team, handling edge cases that scale to millions of URLs.
 
-### 🚀 Full-Stack Development
+### "Organic traffic dropped 30% and we don't know why"
 
-- **Frontend:** React, Redux, Context API, Next.js, Vite, Tailwind
-- **Backend:** Node.js, Express, MongoDB, Mongoose, REST APIs
-- **Database:** SQL, PostgreSQL, Supabase, MongoDB
-- **DevOps:** Docker, Kubernetes, Nginx, CI/CD scripting, DigitalOcean deployment
+**The Problem:** No diagnostic framework to identify whether the issue is content decay, keyword cannibalization, technical errors, or algorithm updates.
 
-### 🔍 Search Engine Marketing
+**My Solution:** Systematic measurement frameworks with KPI dashboards organized by cluster and funnel stage, plus diagnostic checklists for rapid troubleshooting.
 
-- **Search Engine Advertising (SEA):** 7+ years managing e-commerce campaigns with Google Ads & Shopping
-- **Search Engine Optimization (SEO):** SEO expertise and keyword research applied to web development
-- **Analytics Integration:** GA4, GTM, and event tracking
+**What You Get:** Custom diagnostic framework adapted to your business, with actionable next steps and priority ranking.
 
-### 🛡️ Security & Deployment
+### "We spend a lot on content but rankings haven't moved"
 
-- JWT, refresh tokens, HTTPS, role-based access control
-- Input validation and sanitization
-- Docker, Kubernetes, Nginx, Let's Encrypt, DigitalOcean
+**The Problem:** Content production without keyword clustering, search intent modeling, or topical authority strategy.
+
+**My Solution:** Research-to-execution frameworks that convert keyword data into intent-led clusters, then translate clusters into hub & spoke content architecture.
+
+**What You Get:** Complete keyword cluster strategy with content briefs, internal linking plan, and editorial calendar.
+
+## 🔧 Services I Offer
+
+### Technical SEO Implementation
+
+**When you need:** A developer who understands SEO consequences of every code decision
+
+- Crawl budget optimization - Prevent URL explosions from filters and parameters
+- Dynamic canonicalization - Smart canonical strategies based on parameter stability
+- Structured data implementation - Schema.org markup for rich results
+- Performance optimization - Core Web Vitals improvements
+- International SEO - hreflang implementation and multi-region URL strategies
+- Site migrations - Technical SEO preservation during platform changes
+
+### Strategic SEO Planning
+
+**When you need:** SEO strategy and execution without requiring developer resources
+
+- Keyword research & clustering - Intent modeling and topical authority planning
+- Content architecture design - Hub & spoke systems with internal linking strategy
+- Editorial workflows - Production processes, governance, and quality frameworks
+- KPI design & diagnostics - Measurement systems for continuous optimization
+- Authority building - Link acquisition, local SEO, review management strategies
+- SEO audits - Comprehensive analysis with prioritized action plans
+
+## 💼 Technical Skills
+
+_Used to implement SEO solutions in production_
+
+- **Languages:** JavaScript, TypeScript, SQL, HTML, CSS
+- **Frameworks:** Next.js, React, Node.js, Express
+- **Databases:** PostgreSQL, MongoDB, Supabase
+- **Tools:** Docker, Nginx, Git, Google Analytics, Search Console, SEMrush
 
 ## 🛠️ Featured Projects
 
-### [🎯 SQL Playground](https://github.com/ArnaudHalvick/sql-playground)
+### [🎯 SEO Workshop - Complete Technical + Strategic Platform](https://github.com/ArnaudHalvick/SEO-Workshop)
 
-An **interactive SQL learning platform** where you can practice queries, tackle challenges, and master database skills through hands-on experience. Built with **Next.js 15, TypeScript, and Supabase**.
+**Production-ready solutions for crawl budget optimization, parameter handling, and content strategy.** Every service I offer demonstrated through working code and actionable frameworks.
+
+🔗 **Live Demo:** [Interactive SEO Platform](https://seo-workshop-hd7ml7sbc-arnaud-halvicks-projects.vercel.app/)
+
+**What This Demonstrates:**
+
+Most SEO specialists can only do half the job—either they understand strategy but can't implement technical solutions, or they can code but lack SEO expertise. This platform shows how I do both.
+
+🚀 **Problems Solved**
+
+- **Crawl Budget Optimization:** Smart parameter classification + dynamic canonicalization that prevents URL explosions for e-commerce sites with 10k+ products
+- **Traffic Diagnostics:** Measurement frameworks with KPI dashboards for rapid troubleshooting of organic traffic drops
+- **Content Strategy:** Keyword clustering frameworks that convert research into actionable hub & spoke architectures
+
+🧱 **Technical Implementation**
+
+- **Framework:** Next.js 15 with App Router
+- **Language:** TypeScript 5
+- **UI:** React 19, Tailwind CSS, shadcn/ui
+- **SEO Logic:** Framework-agnostic decision engine (portable to any stack)
+- **Features:** Interactive shop demo with real-time SEO Receipt showing decision logic
+
+**The Shop Demo:** Test real-world scenarios where parameter combinations trigger different indexation strategies. The SEO Receipt updates in real-time showing why each decision was made—just like production SEO systems should work.
+
+---
+
+### [🎯 SQL Playground - Database Architecture for SEO](https://github.com/ArnaudHalvick/sql-playground)
+
+An **interactive SQL learning platform** built to demonstrate **SEO-friendly database architecture** for large-scale e-commerce catalogs.
 
 🎥 **Video Presentation:** [Watch on YouTube](https://youtu.be/uPUUJFIIJhc)
 
-**Why I Built This:** I wanted to learn SQL but couldn't find a platform that made it fun, interactive, and practical. Most resources were either too theoretical or lacked real-world scenarios.
+**SEO Relevance:**
 
-🚀 **Key Features**
+While built as a learning tool, this demonstrates critical database design principles for technical SEO:
 
-- **SQL Editor** with syntax highlighting and auto-completion
-- **Real-time query execution** with instant results
-- **20+ curated exercises** from beginner to advanced
-- **AI-powered challenge generator** with custom difficulty levels
-- **Data quality challenges** with intentional errors to find and fix
-- **One-click database setup** with realistic datasets
+- URL-friendly schema design for clean paths and semantic routing
+- Query optimization relevant to Core Web Vitals and site performance
+- Scalable architecture for catalogs with 10k+ products
+- Table relationships designed to support faceted navigation without crawl traps
 
 🧱 **Tech Stack**
 
 - **Frontend:** Next.js 15, React, TypeScript, Tailwind CSS, shadcn/ui
 - **Database:** Supabase (PostgreSQL)
 - **Editor:** CodeMirror with SQL syntax highlighting
-- **Features:** Real-time query execution, schema management, automated data seeding
-
-**What I Learned:** Advanced SQL (complex queries, window functions, CTEs), database design, Supabase integration, Next.js 15 features, and educational UX design.
+- **Features:** 20+ curated exercises, AI-powered challenges, realistic datasets
 
 ---
 
-### [🛍️ MERN E-Commerce Platform](https://github.com/ArnaudHalvick/e-commerce-mern-stack-improved)
+## Additional Work
 
-A comprehensive **full-stack e-commerce solution** featuring a modern **React customer frontend**, a separate **admin dashboard**, and a robust **Node.js backend**. Production-ready with Docker, Nginx, and SSL.
+_Earlier learning projects demonstrating full-stack development skills_
 
-**🔗 Live Demo:** [mernappshopper.xyz](https://mernappshopper.xyz)  
-**🔐 Admin Dashboard:** [admin.mernappshopper.xyz](https://admin.mernappshopper.xyz)  
-🎥 **Video Presentation:** [Watch on YouTube](https://youtu.be/K1EnPEjhPIA)
+- **[MERN E-Commerce Platform](https://github.com/ArnaudHalvick/e-commerce-mern-stack-improved)** - Full-stack e-commerce with React, Node.js, MongoDB. Docker deployment with Nginx and SSL. [Live Demo](https://mernappshopper.xyz)
 
-🚀 **Key Features**
-
-- **Dual Frontend Architecture** (Customer + Admin)
-- **JWT Authentication** with email verification and refresh tokens
-- **Stripe Payment Integration** with webhook support
-- **Advanced SEO** using React 19's Document Metadata API
-- **Docker Deployment** with production and development environments
-- **Nginx Reverse Proxy** with HTTPS via Let's Encrypt
-
-🧱 **Tech Stack**
-
-- **Frontend (Customer):** React 19, Redux, Stripe Elements, CSS modules
-- **Admin Dashboard:** React with Context API, Vite
-- **Backend:** Node.js, Express, MongoDB, Mongoose, JWT, Stripe API
-- **DevOps:** Docker, Docker Compose, Nginx, SSL certificates, DigitalOcean
-
-📦 **Architecture Highlights**
-
-- Microservices-inspired setup with separate containers
-- Central Nginx proxy for routing, SSL termination, and caching
-- Secret management via Docker volumes
-- Development environment with hot-reloading
+- **[Natours Tour Booking](https://github.com/ArnaudHalvick/Natours)** - Tour booking platform with Node.js, Express, MongoDB. Stripe payments and admin dashboard.
 
 ---
 
-### [🌍 Natours Tour Booking Platform](https://github.com/ArnaudHalvick/Natours)
+## 📈 Work Experience
 
-A full-featured **tour booking platform** built with **Node.js, Express, and MongoDB**. Features secure authentication, advanced booking system with payments & refunds, and comprehensive admin dashboard.
+**SEO Specialist + Developer | Self Employed** _(March 2017 - Present)_
 
-🎥 **Video Presentation:** [Watch on YouTube](https://youtu.be/fyj1y5fW3Ug)
+Solving complex technical and strategic SEO problems for e-commerce and service-based businesses. Unique combination of hands-on implementation and strategic planning—I don't just recommend solutions, I build them.
 
-🚀 **Key Features**
+### Problems Solved
 
-- Secure authentication with email verification & 2FA
-- Advanced booking system with payments & refunds
-- Comprehensive admin dashboard for user & tour management
-- Role-based access control system
-- Review moderation and management
-- Invoice generation and management
+- **Crawl budget optimization:** Prevented URL explosions for e-commerce sites with 10k+ products through smart parameter classification and dynamic canonicalization
+- **Traffic recovery:** Diagnosed and resolved organic traffic drops through systematic measurement frameworks and technical audits
+- **Content strategy:** Built keyword clustering frameworks and hub & spoke content architectures that improved topical authority
+- **Technical implementation:** Coded SEO solutions including structured data, hreflang, and Core Web Vitals optimizations
+- **SEA campaigns:** Managed Google Ads campaigns (Search, Display, Shopping) with focus on ROI and conversion optimization
 
-🧱 **Tech Stack**
+### Track Record
 
-- **Backend:** Node.js, Express.js, MongoDB, Mongoose ODM
-- **Authentication:** JWT for authentication
-- **Payments:** Stripe for payment processing
-- **Frontend:** Pug templates, CSS, JavaScript
-- **Email:** SendGrid/Nodemailer for emails
-- **File Upload:** Multer for file uploads
+- 12,000+ hours on Upwork with 100% Job Success Score and Top Rated badge
+- 7+ years of continuous client work in SEO and SEM
+- Fluent in English, Spanish, and French for international clients
 
-**Implementation Highlights:** MVC architecture, geospatial queries, advanced filtering and pagination, email notifications, and comprehensive error handling.
+## 🎯 Looking for Help With SEO?
 
----
+I'm available for both **technical SEO implementation** and **strategic SEO planning** projects on Upwork. Whether you need hands-on coding or strategic frameworks, I have the experience to deliver results.
 
-## 📈 SEM Expertise (7+ Years)
+**Best fit for:**
 
-**SEM Specialist | Self Employed** _(March 2017 - June 2025)_
-
-Led full-funnel digital marketing strategies for e-commerce and service-based businesses, focusing on organic growth through SEO, paid acquisition through SEA, and conversion optimization.
-
-### Key Responsibilities
-
-- Conducted deep keyword research and implemented on-page SEO across client websites
-- Built, launched, and continuously optimized Google Ads campaigns (Search, Display, Shopping)
-- Ran A/B tests on ads and landing pages to boost CTR and conversions
-- Monitored performance through Google Analytics and created actionable monthly reports
-
-### Tools & Skills
-
-- **SEO Tools:** SEMrush, Google Keyword Planner
-- **SEA Platforms:** Google Ads (Search, Display, Shopping)
-- **Analytics:** Google Analytics / GA4, GTM
-- **SEO Tactics:** On-page SEO, technical SEO, site audits
-- **Content:** Copywriting, content strategy, CRO
-
-## 🎯 What I'm Looking For
-
-I'm seeking opportunities as a **Full-Stack JavaScript Developer** where I can leverage my unique combination of:
-
-- **Technical Skills:** MERN/MEAN stack, SQL, Docker, Kubernetes
-- **Marketing Expertise:** SEO/SEA knowledge for building commercially successful applications
-- **Problem-Solving:** Creating educational tools and solving real-world business challenges
+- E-commerce sites with complex catalogs and filter combinations
+- Businesses experiencing unexplained organic traffic drops
+- Companies investing in content without seeing ranking improvements
+- Development teams needing SEO expertise for technical implementations
+- Marketing teams needing strategic SEO without developer dependencies
 
 ## 🤝 Let's Connect
 
 - **Portfolio:** [arnaudhalvick.github.io](https://arnaudhalvick.github.io/)
+- **Upwork:** [Hire Me (12k+ hours, 100% Job Success, Top Rated)](https://www.upwork.com/freelancers/~017740c356da4ab81f)
 - **Email:** halvick.arnaud@gmail.com
 - **Phone:** +54 911 2346 1925
-- **Upwork:** [Profile Link](https://www.upwork.com/freelancers/~017740c356da4ab81f)
 
-Feel free to reach out for collaboration, full-time opportunities, or freelance projects!
+**What to include in your message:**
+
+1. Your website URL
+2. Main SEO challenge (crawl budget, traffic drop, content strategy, etc.)
+3. Whether you need technical implementation, strategic planning, or both
+4. Timeline and budget
+
+I typically respond within 48 hours on business days.
