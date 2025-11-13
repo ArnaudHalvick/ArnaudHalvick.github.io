@@ -1,6 +1,6 @@
-SEO SPECIALIST WHO CODES
+FULL-STACK SEO EXPERT
 
-I fix the technical problems most SEO agencies outsource.
+Technical + Strategic SEO - I fix the problems most agencies outsource.
 
 Most SEO specialists can only do half the job—either they understand strategy but can't implement technical solutions, or they can code but lack SEO expertise. I do both. This means no recommendations that sit ignored by your dev team, and no technical implementations that ignore SEO fundamentals.
 

@@ -1,4 +1,4 @@
-# SEO Specialist Who Codes
+# Full-Stack SEO Expert | Technical + Strategic SEO
 
 **I fix the technical problems most SEO agencies outsource**
 
@@ -133,18 +133,6 @@ While built as a learning tool, this demonstrates critical database design princ
 - **Database:** Supabase (PostgreSQL)
 - **Editor:** CodeMirror with SQL syntax highlighting
 - **Features:** 20+ curated exercises, AI-powered challenges, realistic datasets
-
----
-
-## Additional Work
-
-_Earlier learning projects demonstrating full-stack development skills_
-
-- **[MERN E-Commerce Platform](https://github.com/ArnaudHalvick/e-commerce-mern-stack-improved)** - Full-stack e-commerce with React, Node.js, MongoDB. Docker deployment with Nginx and SSL. [Live Demo](https://mernappshopper.xyz)
-
-- **[Natours Tour Booking](https://github.com/ArnaudHalvick/Natours)** - Tour booking platform with Node.js, Express, MongoDB. Stripe payments and admin dashboard.
-
----
 
 ## 📈 Work Experience
 
